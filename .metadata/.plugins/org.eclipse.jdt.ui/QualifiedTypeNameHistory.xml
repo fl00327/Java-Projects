@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="org.com1027.exercise1.Person"/>
+<fullyQualifiedTypeName name="org.com1027.exercise1.InvalidModuleCodeException"/>
+<fullyQualifiedTypeName name="org.com1027.exercise1.Module"/>
+<fullyQualifiedTypeName name="org.com1027.question1.TenantType"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.com1027.question2.Room"/>
+<fullyQualifiedTypeName name="org.com1027.question3.TenantType"/>
+<fullyQualifiedTypeName name="lab10_test_question1.Programme"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.com1027.mock.fl00327.q1.Rating"/>
+<fullyQualifiedTypeName name="org.com1027.mock.fl00327.q1.Hotel"/>
+<fullyQualifiedTypeName name="org.com1028.lab1.exercise1.Lounge"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="demo.client"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.com1028.lab5.dao.BookDAOImpl"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/COM1029_lab2_PartA_Solution/src/org/com1029/lab2/css1ss/MainClassA.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.com1029.lab2.css1ss.MainClassA"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="COM1029_lab2_PartA_Solution"/>
+</launchConfiguration>

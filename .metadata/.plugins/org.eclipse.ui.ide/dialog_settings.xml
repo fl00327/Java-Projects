@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/faseeh/Desktop/COM1028_lab5_JDBC"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab4_Solution"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab4"/>
+			<item value="/Users/faseeh/Desktop/com1028_lab3_skeletoncode"/>
+			<item value="/Users/faseeh/Desktop/COM1032_lab3"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab3_Solution"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab3"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab1_solution"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab2_PartB_Solution"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab2_PartB"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab2_PartA_Solution"/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab2_PartA"/>
+			<item value=""/>
+			<item value="/Users/faseeh/Desktop/COM1029_labs/COM1029_lab1_sources"/>
+			<item value="/Users/faseeh/Desktop/com1027_exam_fl00327"/>
+			<item value="/Users/faseeh/Desktop/COM1027_Exam_Solutions"/>
+			<item value="/Users/faseeh/Desktop/com1027_exam_sk0041"/>
+			<item value="/Users/faseeh/Desktop/COM1027_lab11_solutions"/>
+			<item value="/Users/faseeh/Desktop/com1027_exam_username"/>
+			<item value="/Users/faseehlodhi/Desktop/sk0041_com1027_summative"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="/Users/faseeh/Desktop/COM1028_Lab1_Solutions_All/COM1028_Lab1_Solutions.zip"/>
+			<item value="/Users/faseeh/Desktop/com1028_lab1_all/COM1028_Lab1_Skeleton_Code.zip"/>
+			<item value="/Users/faseeh/Desktop/irina.zip"/>
+			<item value="/Users/faseeh/Desktop/khan21902.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="345"/>
+		<item key="DIALOG_Y_ORIGIN" value="198"/>
+	</section>
+</section>

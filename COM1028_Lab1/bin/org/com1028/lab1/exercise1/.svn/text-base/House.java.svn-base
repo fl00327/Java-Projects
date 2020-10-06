@@ -1,0 +1,36 @@
+package org.com1028.lab1.exercise1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class House {
+	private List<Room> rooms;
+
+	public House() {
+		super();
+		this.rooms = new ArrayList<Room>();
+	}
+
+	/**
+	 * simple method to add a room to a house
+	 * @param room
+	 */
+	public void addRoom(Room room) {
+		rooms.add(room);
+	}
+	
+	public int howManyRooms(){
+		return rooms.size();
+	}
+	
+    /**
+     * Complete a foreach loop to work out the total area of the rooms in the house
+     * 
+     * @return
+     */
+	public double getTotalArea(){
+		double total = 0.0;
+		//missing the loop....
+		return total;
+	}
+}

@@ -1,0 +1,49 @@
+package org.com1028.lab1.exercise1;
+
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+
+/**
+ * This is a simple test class which provides until tests for the House class
+ * from exercise 1
+ * 
+ * @author css2ht
+ * 
+ */
+public class HouseTest {
+
+	private House house;
+
+	@Before
+	public void setUp() throws Exception {
+		house = new House();
+		/**
+		 * set up a particular kind of house
+		 */
+		Lounge l1 = new Lounge(10.0);
+		Lounge l2 = new Lounge(15.0);
+		DiningRoom d1 = new DiningRoom(16.0);
+		house.addRoom(l1);
+		house.addRoom(l2);
+		house.addRoom(d1);
+	}
+
+	@Test
+	public void testRequirement3() {
+	assertEquals("wrong number of rooms", house.howManyRooms(), 3);
+	}
+	
+	@Test
+	public void testRequirement4() {
+		assertEquals("wrong area", house.getTotalArea(), 41.0,0);
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		house = null;
+	}
+
+}
